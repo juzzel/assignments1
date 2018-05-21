@@ -1,0 +1,20 @@
+body
+- afstand 5px
+- achtergrondkleur grijs
+section.main
+- binnen afstand 10px
+- rand 1px blauw
+section.sectionone
+- achtergrondkleur oranje
+- geen binnen/buiten afstand
+article.articleone
+- buitenafstand 10px
+- rand 1px groen
+h2 uitlijnen rechts
+p uitlijnen links
+article.articletwo
+- buitenafstand 10px;
+- rand 1px groen
+- 80% breed
+h2 tekst gecentreerd
+p tekst gecentreerd

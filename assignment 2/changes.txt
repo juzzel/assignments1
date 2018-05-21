@@ -1,0 +1,22 @@
+
+nav
+- 100% wide
+- 75px high
+- 1px border dark green
+- background color light green
+section.main
+- 15px distance with nav element
+- 5px within distance
+h1 element
+- Verdana
+section.second
+- 5px within distance
+- 100% wide
+- position relative
+article.left
+- 50% wide
+- 5px within distance
+article.topright
+- Position absolute
+- 50% wide
+- 30% high

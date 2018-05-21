@@ -1,0 +1,14 @@
+
+Body distance 0
+Headstock element 100% variety
+0 space above and left
+background color yellow
+Header H1 - color purple
+Header H1 - 5px within distance
+Artickle 50% variety
+5px within distance
+H2 color purple
+H2 14px high
+P color black
+12px high
+font family Verdana
